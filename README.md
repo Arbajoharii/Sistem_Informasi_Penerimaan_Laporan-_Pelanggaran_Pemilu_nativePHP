@@ -1,5 +1,14 @@
 # Sistem_Informasi_Penerimaan_Laporan-_Pelanggaran_Pemilu_nativePHP
-Ini adalah tugas mahasiswa STMIK ROYAL KISARAN perancangan sistem informasi untuk penerimaan laporan pelanggaran pada pemilu 
-import database pada folder db dengan nama "dbarsip"
+Sistem Informasi Penerimaan Laporan Dugaan Pelanggaran Pemilu di BAWASLU Batu Bara 
+Hasil Modifikasi Oleh Mahasiswa STMIK Royal Kisaran : 
 
-By ArbaJohari, Ardi Setiawan, Ummaisyah
+Arba Johari 
+Ardi Setiawan 
+Ummaisyah 
+
+Dapat dikembangan menggunakan Framework Yang disukai.
+
+Fitur :
+
+Laporan Arsip Pelanggaran
+Cetak Laporan
