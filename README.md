@@ -3,7 +3,9 @@ Sistem Informasi Penerimaan Laporan Dugaan Pelanggaran Pemilu di BAWASLU Batu Ba
 Hasil Modifikasi Oleh Mahasiswa STMIK Royal Kisaran : 
 
 Arba Johari 
+
 Ardi Setiawan 
+
 Ummaisyah 
 
 Dapat dikembangan menggunakan Framework Yang disukai.
@@ -11,4 +13,5 @@ Dapat dikembangan menggunakan Framework Yang disukai.
 Fitur :
 
 Laporan Arsip Pelanggaran
+
 Cetak Laporan
